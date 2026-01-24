@@ -1,0 +1,9 @@
+streamlit
+imageio-ffmpeg
+moviepy==1.0.3
+vosk
+deepface==0.0.96
+tensorflow==2.20.0
+tf-keras
+opencv-python
+numpy<2.0
