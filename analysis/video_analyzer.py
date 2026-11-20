@@ -3,7 +3,7 @@ from deepface import DeepFace
 import cv2
 
 
-
+#code
 def analyze_video(video_path):
     cap = cv2.VideoCapture(video_path)
 
