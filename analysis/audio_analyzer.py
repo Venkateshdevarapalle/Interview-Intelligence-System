@@ -26,6 +26,7 @@ def analyze_audio(video_path):
         }
 
     # Load speech model
+    #load
     model = Model(MODEL_PATH)
     wf = wave.open(wav_path, "rb")
 
