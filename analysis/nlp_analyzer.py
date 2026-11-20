@@ -1,5 +1,5 @@
 from collections import Counter
-
+#code
 def analyze_nlp(words):
     if not words:
         return {"integrity_score": 0}
